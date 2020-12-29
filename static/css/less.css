@@ -1,0 +1,10 @@
+header{
+    height: inherit;
+
+}
+
+
+
+#portfolio {
+    flex-direction: column;
+}
